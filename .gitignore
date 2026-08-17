@@ -1,0 +1,10 @@
+.env
+cache/
+sessions/
+.varnish-cache/
+tmp/
+*.bak
+*.bak.*
+*.bak2.*
+debug_test.php
+debug2.php
